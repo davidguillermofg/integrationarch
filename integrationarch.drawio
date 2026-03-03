@@ -1,52 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0" pages="3">
-  <diagram name="C4-Context" id="e8JTwGF-ByGU1o_jCTJA">
-    <mxGraphModel dx="61688" dy="20545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="lRuvU0QSzGpnWJnTHjBo" name="C4-Context">
+    <mxGraphModel dx="1185" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-8" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;" target="g3-zcN2uL7iqC4u4DUy7-3">
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-1" edge="1" parent="1" source="OwEN48myZ7MTUWhO5Shk-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;" target="OwEN48myZ7MTUWhO5Shk-8" value=" ">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="Clientes (Web/Mobile)" vertex="1">
-          <mxGeometry height="40" width="130" x="-58660" y="-18150" as="geometry" />
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="Clientes (Web/Mobile)" vertex="1">
+          <mxGeometry height="40" width="130" x="94" y="227" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="Fintechs / Terceros (Open Finance)" vertex="1">
-          <mxGeometry height="40" width="180" x="-58704" y="-18057" as="geometry" />
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="Fintechs / Terceros (Open Finance)" vertex="1">
+          <mxGeometry height="40" width="180" x="50" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-10" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g3-zcN2uL7iqC4u4DUy7-4">
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-4" edge="1" parent="1" source="OwEN48myZ7MTUWhO5Shk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OwEN48myZ7MTUWhO5Shk-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-11" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g3-zcN2uL7iqC4u4DUy7-5">
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-5" edge="1" parent="1" source="OwEN48myZ7MTUWhO5Shk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OwEN48myZ7MTUWhO5Shk-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-12" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g3-zcN2uL7iqC4u4DUy7-6">
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-6" edge="1" parent="1" source="OwEN48myZ7MTUWhO5Shk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OwEN48myZ7MTUWhO5Shk-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-13" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;" target="g3-zcN2uL7iqC4u4DUy7-7">
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-7" edge="1" parent="1" source="OwEN48myZ7MTUWhO5Shk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;" target="OwEN48myZ7MTUWhO5Shk-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeWidth=2;" value="Plataforma de Integración Bancaria (AWS)&lt;div&gt;- API Management&lt;/div&gt;&lt;div&gt;- Event Bus&lt;/div&gt;&lt;div&gt;- Microservices&lt;/div&gt;&lt;div&gt;- Seguridad&lt;/div&gt;&lt;div&gt;- Observabilidad&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="280" x="-58384" y="-18177" as="geometry" />
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeWidth=2;" value="Plataforma de Integración Bancaria (AWS)&lt;div&gt;- API Management&lt;/div&gt;&lt;div&gt;- Event Bus&lt;/div&gt;&lt;div&gt;- Microservices&lt;/div&gt;&lt;div&gt;- Seguridad&lt;/div&gt;&lt;div&gt;- Observabilidad&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="370" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;" value="Core Bancario Tradicional (On-Prem)" vertex="1">
-          <mxGeometry height="40" width="240" x="-57984" y="-18247" as="geometry" />
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;" value="Core Bancario Tradicional (On-Prem)" vertex="1">
+          <mxGeometry height="40" width="240" x="770" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Core Bancario Digital (Cloud Native)" vertex="1">
-          <mxGeometry height="40" width="240" x="-57984" y="-18157" as="geometry" />
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Core Bancario Digital (Cloud Native)" vertex="1">
+          <mxGeometry height="40" width="240" x="770" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Plataforma de Pagos" vertex="1">
-          <mxGeometry height="40" width="240" x="-57984" y="-18067" as="geometry" />
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Plataforma de Pagos" vertex="1">
+          <mxGeometry height="40" width="240" x="770" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Sistema de Riesgos y Fraude" vertex="1">
-          <mxGeometry height="40" width="240" x="-57984" y="-17977" as="geometry" />
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Sistema de Riesgos y Fraude" vertex="1">
+          <mxGeometry height="40" width="240" x="770" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-9" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;endArrow=classic;" target="g3-zcN2uL7iqC4u4DUy7-3">
+        <mxCell id="OwEN48myZ7MTUWhO5Shk-13" edge="1" parent="1" source="OwEN48myZ7MTUWhO5Shk-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;endArrow=classic;" target="OwEN48myZ7MTUWhO5Shk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2bf2D3D4e9ldrfk9bqGT-6" edge="1" parent="1" style="endArrow=block;" />
-        <mxCell id="2bf2D3D4e9ldrfk9bqGT-7" edge="1" parent="1" style="endArrow=block;" />
-        <mxCell id="2bf2D3D4e9ldrfk9bqGT-8" edge="1" parent="1" style="endArrow=block;" />
-        <mxCell id="2bf2D3D4e9ldrfk9bqGT-9" edge="1" parent="1" style="endArrow=block;" />
       </root>
     </mxGraphModel>
   </diagram>
