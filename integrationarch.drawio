@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0" pages="3">
   <diagram name="C4-Context" id="e8JTwGF-ByGU1o_jCTJA">
-    <mxGraphModel dx="52459" dy="36844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12763" dy="8788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-8" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g3-zcN2uL7iqC4u4DUy7-3">
+        <mxCell id="g3-zcN2uL7iqC4u4DUy7-8" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;" target="g3-zcN2uL7iqC4u4DUy7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g3-zcN2uL7iqC4u4DUy7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" value="Clientes (Web/Mobile)" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="g3-zcN2uL7iqC4u4DUy7-12" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g3-zcN2uL7iqC4u4DUy7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-13" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g3-zcN2uL7iqC4u4DUy7-7">
+        <mxCell id="g3-zcN2uL7iqC4u4DUy7-13" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;" target="g3-zcN2uL7iqC4u4DUy7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g3-zcN2uL7iqC4u4DUy7-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeWidth=2;" value="Plataforma de Integración Bancaria (AWS)&lt;div&gt;- API Management&lt;/div&gt;&lt;div&gt;- Event Bus&lt;/div&gt;&lt;div&gt;- Microservices&lt;/div&gt;&lt;div&gt;- Seguridad&lt;/div&gt;&lt;div&gt;- Observabilidad&lt;/div&gt;" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="g3-zcN2uL7iqC4u4DUy7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" value="Sistema de Riesgos y Fraude" vertex="1">
           <mxGeometry height="60" width="240" x="-3834" y="-2174" as="geometry" />
         </mxCell>
-        <mxCell id="g3-zcN2uL7iqC4u4DUy7-9" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;" target="g3-zcN2uL7iqC4u4DUy7-3">
+        <mxCell id="g3-zcN2uL7iqC4u4DUy7-9" edge="1" parent="1" source="g3-zcN2uL7iqC4u4DUy7-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;endArrow=classic;" target="g3-zcN2uL7iqC4u4DUy7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2bf2D3D4e9ldrfk9bqGT-6" edge="1" parent="1" style="endArrow=block;" />
