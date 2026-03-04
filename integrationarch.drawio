@@ -101,14 +101,14 @@
         <mxCell id="vs3lMc_cKka2xQ8s_R2D-6" parent="1" style="rounded=1;fillColor=#e1d5e7;" value="&#xa;&#xa;Amazon MSK (Kafka)&#xa;Event Streaming" vertex="1">
           <mxGeometry height="80" width="160" x="1050.5" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="gc3BQNoROMUv00QwAQPw-12" edge="1" parent="1" source="vs3lMc_cKka2xQ8s_R2D-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;endArrow=classic;dashed=1;" target="vs3lMc_cKka2xQ8s_R2D-6">
+        <mxCell id="gc3BQNoROMUv00QwAQPw-12" edge="1" parent="1" source="vs3lMc_cKka2xQ8s_R2D-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;endArrow=classic;dashed=1;exitX=0.657;exitY=1.071;exitDx=0;exitDy=0;exitPerimeter=0;" target="vs3lMc_cKka2xQ8s_R2D-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vs3lMc_cKka2xQ8s_R2D-7" parent="1" style="rounded=1;fillColor=#e1d5e7;" value="&#xa;&#xa;Amazon EventBridge&#xa;Domain Events" vertex="1">
-          <mxGeometry height="80" width="159.5" x="1050.5" y="170" as="geometry" />
+          <mxGeometry height="80" width="138.59" x="941.41" y="170" as="geometry" />
         </mxCell>
         <mxCell id="vs3lMc_cKka2xQ8s_R2D-8" parent="1" style="rounded=1;fillColor=#f8cecc;" value="&#xa;&#xa;Amazon RDS (PostgreSQL)&#xa;Transactional Data" vertex="1">
-          <mxGeometry height="80" width="163" x="827" y="170" as="geometry" />
+          <mxGeometry height="80" width="163" x="760" y="170" as="geometry" />
         </mxCell>
         <mxCell id="vs3lMc_cKka2xQ8s_R2D-9" parent="1" style="rounded=1;fillColor=#f8cecc;" value="DynamoDB&#xa;High-speed / Fraud / Sessions" vertex="1">
           <mxGeometry height="80" width="190" x="350" y="310" as="geometry" />
@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gc3BQNoROMUv00QwAQPw-14" parent="1" style="swimlane;whiteSpace=wrap;html=1;dashed=1;" value="Fraud Detection" vertex="1">
-          <mxGeometry height="140" width="190" x="1040" y="270" as="geometry" />
+          <mxGeometry height="140" width="190" x="1030" y="270" as="geometry" />
         </mxCell>
         <mxCell id="QpmKbdZ1EMBguS-6FwE7-8" parent="gc3BQNoROMUv00QwAQPw-14" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.msk_amazon_msk_connect;" value="" vertex="1">
           <mxGeometry height="40" width="40.52" x="71.5" y="40" as="geometry" />
@@ -153,10 +153,10 @@
           <mxGeometry height="33" width="33" x="960" y="45" as="geometry" />
         </mxCell>
         <mxCell id="QpmKbdZ1EMBguS-6FwE7-6" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="888.5" y="170" as="geometry" />
+          <mxGeometry height="40" width="40" x="820" y="170" as="geometry" />
         </mxCell>
         <mxCell id="QpmKbdZ1EMBguS-6FwE7-7" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" value="" vertex="1">
-          <mxGeometry height="38" width="38" x="1111.5" y="170" as="geometry" />
+          <mxGeometry height="38" width="38" x="991.71" y="172" as="geometry" />
         </mxCell>
         <mxCell id="QpmKbdZ1EMBguS-6FwE7-9" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="710" y="310" as="geometry" />
@@ -174,10 +174,10 @@
           <mxGeometry height="29" width="29" x="630.5" y="195.5" as="geometry" />
         </mxCell>
         <mxCell id="FpDPZRrsYOyv0w4HXSx0-1" parent="1" style="rounded=1;fillColor=#f8cecc;" value="&#xa;S3&#xa;Long Term Storage&#xa;/ Archiving" vertex="1">
-          <mxGeometry height="80" width="139" x="1241" y="170" as="geometry" />
+          <mxGeometry height="80" width="139" x="1130" y="170" as="geometry" />
         </mxCell>
         <mxCell id="6lqcac7uYtn1tCuj_TF7-2" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="1250" y="170" as="geometry" />
+          <mxGeometry height="40" width="40" x="1139" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
